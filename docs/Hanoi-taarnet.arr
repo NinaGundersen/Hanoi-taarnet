@@ -3,7 +3,7 @@ green-circ = circle(40, "solid", "green")
 blue-circ = circle(55, "solid", "blue")
 orange-circ = circle(70, "solid", "orange")
 black-circ = circle(7, "solid", "black")
- 
+
 # definert størrelse og farge på ringene
 # Det ble laget definisjoner, for å gjøre koden lettere å utføre, slik at man kan senere legge sammen uttrykk for å lage flere nye figurer.
  
